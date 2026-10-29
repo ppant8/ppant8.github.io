@@ -4,13 +4,13 @@
 
 title: Pragya Pant
 middle_name: 
-last_name: Bista
-contact_note: Mankato, Minnesota 
+last_name: Pant
+contact_note: Lalitpur, Nepal 
 email: ppant3634@gmail.com
 
 description: >
-   🛰️Hi, I'm Pragya Pant, an engineer studying GIS and Remote sensing. 
-  ❄️ Passionate about cryouspheric research in changing environment integrating remote sensing and machine learning. 
+  🛰️ Hi, I'm Pragya Pant, an engineer studying GIS and Remote sensing. 
+  ❄️ Passionate about cryosphere research in changing environment integrating remote sensing and machine learning. 
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -18,7 +18,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: "entomology, sustainable agriculture, IPM, pest management, biological control"
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🐞 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🌍 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://ppant8.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
@@ -88,8 +88,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Becoming a Geospatial Leader # blog_name will be displayed in your blog page
-blog_description: My experience from how to wow!
+blog_name: Towards Becoming Entomology Expert # blog_name will be displayed in your blog page
+blog_description: My experience working with Plants and Insects.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -265,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Pant]
-  first_name: [Pragya]
+  last_name: [Bista]
+  first_name: [Srisha]
 
   style: apa
   locale: en

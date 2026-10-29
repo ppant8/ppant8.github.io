@@ -1,0 +1,98 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Pragya Pant
+    - name: Date of Birth
+      value: 20 January 2000
+    - name: Languages
+      value: English, Nepali, Hindi
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M.S. Geographic Information Science
+      university: Minnesota STate University, Mankato
+      year: Feb 2022 – Nov 2024
+      description:
+        - CGPA: 4.00
+        - Relevant Courses: Integrated Pest Management, Insect Ecology & Physiology
+        - Completed thesis titled “Ovipositional Preference and Management of Pulse Beetle Using Edible Oils in Chitwan, Nepal”.
+    - title: B.Sc. Agriculture Science
+      institution: Agriculture and Forestry University, Chitwan, Nepal
+      year: Dec 2016 – Jan 2021
+      description:
+        - CGPA: 3.50
+        - Relevant Courses: Crop Protection, Entomology, Plant Pathology, Agronomy
+        - Completed thesis titled “Assessment of Knowledge, Perception, and Practice of Pesticide Use by Vegetable Growers in Lalitpur, Nepal”.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Project Coordinator
+      institution: SAHAS Nepal
+      year: Mar 2024 – Present
+      description:
+        - Lead the “Food and Nutrition Security” project with a team of 8 staff.
+        - Conducted trainings on climate-resilient agriculture and water management.
+        - Strengthened community-based organizations for project sustainability.
+        - Coordinated with government agencies, NGOs, and communities.
+        - Conducted field research including participatory variety selection and system of rice intensification.
+        - Published an information sheet on Black Soldier Fly for circular economy.
+
+    - title: Research Assistant
+      institution: International Development Enterprise (iDE) Nepal
+      year: Dec 2022 – Nov 2023
+      description:
+        - Mass-produced beneficial insects (Trichogramma sp., Telenomus sp.).
+        - Assessed field efficacy of parasitoids in pest control.
+        - Promoted IPM practices with researchers and farmers.
+        - Reduced pesticide use and improved crop yield through biological control.
+
+    - title: Census Supervisor
+      institution: Central Bureau of Statistics, Nepal
+      year: Mar 2022 – May 2022
+      description:
+        - Conducted data cleaning and validation for the National Agriculture Census.
+        - Completed a 9-day training on data collection and analysis.
+
+    - title: Intern
+      institution: Prime Minister Agriculture Modernization Project (PMAMP)
+      year: Feb 2021 – Jul 2021
+      description:
+        - Conducted soil sampling and pesticide impact studies.
+        - Analyzed crop health and yield data using R, SPSS, and Stata.
+
+- title: Publications
+  type: list
+  contents:
+    - Bista, S., Thapa, M. K., Khanal, S. P. (2020). "Fall Armyworm: Menace to Nepalese Farming and the Integrated Management Approaches." *International Journal of Environment, Agriculture and Biotechnology*, 5(4), 1011–1018. [DOI:10.22161/ijeab.54.21](https://doi.org/10.22161/ijeab.54.21)
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Research grant from USAID Nepal Higher Education Project
+        - Seed funding from Energize Nepal Program and KU Business Incubation Centre
+    - year: 2022
+      items:
+        - Full scholarship for Integrated Pest Management (IPM) Farmers Field School (Caritas Nepal)
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Insect Ecology & IPM
+      items:
+        - Herbivore-natural enemy interactions
+        - Multitrophic interactions
+        - Nature-based and sustainable pest management
+    - title: Postharvest Entomology
+      items:
+        - Stored product insect damage
+        - Natural and eco-friendly control methods
+
+- title: Other Interests
+  type: list
+  contents:
+    - Hiking, Trekking, Traveling

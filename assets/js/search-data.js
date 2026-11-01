@@ -73,26 +73,31 @@ ninja.data = [{
           section: "News",},{id: "news-started-internship-as-blowing-snow-control-paraprofessional-senior-gis-expert-at-minnesota-department-of-transportation",
           title: '🌎 Started internship as Blowing Snow Control Paraprofessional Senior GIS Expert at Minnesota...',
           description: "",
-          section: "News",},{id: "projects-fall-armyworm-management-research",
-          title: 'Fall Armyworm Management Research',
-          description: "Published study on sustainable strategies to combat Fall Armyworm in Nepal",
+          section: "News",},{id: "projects-glacial-lake-outburst-flood",
+          title: 'Glacial Lake Outburst Flood',
+          description: "Undergraduate thesis to model flood induntation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-black-soldier-fly-for-waste-to-feed-innovation",
-          title: 'Black Soldier Fly for Waste-to-Feed Innovation',
-          description: "Promoting circular economy through organic waste valorization using Black Soldier Fly (BSF)",
+            },},{id: "projects-sustainable-land-use-planning",
+          title: 'Sustainable Land Use Planning',
+          description: "Sustainable land use planning in developing countries using GIS and multi-criteria analysis :a case study of Lalitpur district, Nepal",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-botanical-oils-for-pulse-beetle-management",
-          title: 'Botanical Oils for Pulse Beetle Management',
-          description: "Evaluating plant-based oils as eco-friendly alternatives to synthetic pesticides for managing Callosobruchus chinensis in stored pulses.",
+            },},{id: "projects-climate-action-best-from-waste",
+          title: 'Climate Action :Best From Waste',
+          description: "Training to school students about 3Rs of waste management",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-managing-helicoverpa-armigera-in-tomatoes",
-          title: 'Managing Helicoverpa armigera in Tomatoes',
-          description: "Integrated approaches using trap crops and botanicals to control fruit borer infestation in tomato crops.",
+            },},{id: "projects-permafrost-mapping",
+          title: 'Permafrost Mapping',
+          description: "Remote Sensing and Machine learnig  Approach to Mapping Potential Permafrost Zones in the Himalaya Regio with Rock Glaciers as Proxy.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-permafrost-mapping",
+          title: 'Permafrost Mapping',
+          description: "Remote Sensing and Machine learnig  Approach to Mapping Potential Permafrost Zones in the Himalaya Regio with Rock Glaciers as Proxy.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',

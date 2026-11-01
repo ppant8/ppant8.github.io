@@ -9,30 +9,39 @@ display_categories: [work]
 horizontal: false
 ---
 
-### 🧪 Journal Articles
+### 📑 Journal Articles
 
-**Fall armyworm: Menace to Nepalese farming and the integrated management approaches**  
-*Srisha Bista*, Manisha Kumari Thapa, and P. Saugat Khanal  
-*International Journal of Environment Agriculture and Biotechnology*, **5**(4), pp. 1011–1018, 2020  
-[DOI: 10.22161/ijeab.54.21](https://doi.org/10.22161/ijeab.54.21)
+**Land Cover Change Before and After the Sendai Framework of Disaster Risk Reduction**  
+*Pragya Pant*, Narayan Thapa, Sujan Nepali, and Suman Sanjel  
+*Social Science and Research Network*
+[DOI:10.2139/ssrn.5012977](https://doi.org/10.2139/ssrn.5012977)
 
+**Sustainable Land Use Planning in Developing Countries Using GIS and Multi-Criteria Analysis A Case Study of Lalitpur District, Nepal**  
+Narayan Thapa,*Pragya Pant*, Ritika Prasai, Ayush Mahata, and Sujan Dulal  
+*City and Built Environment 3 (1): 13*
+[DOI:10.1007/s44213-025-00050-x](https://doi.org/10.1007/s44213-025-00050-x)
+
+**Monitoring Water Turbidity in the Chiang Rai Reach of the Mekong River Using Sentinel-2 NDTI**  
+Phailin Kummuang, Neti Srihanu, Arun Kumar Bhomi, Rabi Shrestha, Rabina Poudyal, Umesh Bhurtyal, *Pragya Pant*, Siwa Kaewplang
+*Engineering Journal, 10 (2)*
+[DOI:10.14456/rmutlengj.2025.14](https://doi.org/10.14456/rmutlengj.2025.14)
 ---
 
-### 🐛 Extension & Outreach
+### 🌱 Extension & Outreach
 
-**Black Soldier Fly for Waste-to-Feed Innovation**  
-*Srisha Bista*  
-Published by **SAHAS Nepal**, 2025
-A practical information sheet promoting BSF as a sustainable solution for organic waste recycling and animal feed production.
+**Climate Action at Home**  
+*Pragya Pant*, Asmita Rawat 
+Supported by **YSB EU Delegation to Nepal**, Jul 2023
+A practical training on waste management and reduce, reuse, recycle approach.
 
 ---
 
 ### 🎓 Theses
 
-**Ovipositional Preference and Management of Pulse Beetle Using Edible Oils in Chitwan, Nepal**  
-*Srisha Bista*  
-Master’s Thesis, Department of Entomology, Agriculture and Forestry University, 2024  
-Experimental study on insect behavioral preferences and sustainable pest control using edible oils.
+**Monitoring, Modeling, and Hazard Assessment of Glacial Lake Outburst Flood (GLOF) in Nepal**  
+*Pragya Pant*, Prajwal Sharma, Yukesh Byanjankar, Aayush Mahata  
+Undergraduate Thesis, Department of Geomatics Engineering, Kathmandu University, Nepal 2022 
+Study of four potentially dangerous glacial lakes and flood model for Hongu II glacial lake.
 
 ---
 

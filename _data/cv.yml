@@ -11,87 +11,109 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S. Geographic Information Science
-      university: Minnesota STate University, Mankato
-      year: Feb 2022 – Nov 2024
+    - title: MS Geographic Information Science
+      institution: Minnesota State University, Mankato
+      year: Aug 2025 – May 2027(Anticipated)
       description:
-        - CGPA: 4.00
-        - Relevant Courses: Integrated Pest Management, Insect Ecology & Physiology
-        - Completed thesis titled “Ovipositional Preference and Management of Pulse Beetle Using Edible Oils in Chitwan, Nepal”.
-    - title: B.Sc. Agriculture Science
-      institution: Agriculture and Forestry University, Chitwan, Nepal
-      year: Dec 2016 – Jan 2021
+        - "GPA = 4.00"
+        - "Relevant Courses: Remote Sensing, GIS, Climate Change, Geospatial Modeling and Simulation"
+        -  Ongoing thesis titled “Remote Sensing and Machine Learning Approach to Mapping Potential Permafrost Zones in the Himalaya".
+    - title: BE Geomatics Engineering
+      institution: Kathmandu University, Nepal
+      year: Aug 2017 – Jun 2022
       description:
-        - CGPA: 3.50
-        - Relevant Courses: Crop Protection, Entomology, Plant Pathology, Agronomy
-        - Completed thesis titled “Assessment of Knowledge, Perception, and Practice of Pesticide Use by Vegetable Growers in Lalitpur, Nepal”.
+        - "CGPA = 3.51"
+        - "Relevant Courses: GIS, Remote Sensing, Phtogrammetry, Physical and Staellite Geodesy, Surveying, Database Management, Python Programming"
+        -  Completed thesis titled “Monitoring, Modeling, and Hazard Assessment of Glacial Lake Outburst Flood in Nepal".
 
 - title: Experience
   type: time_table
   contents:
-    - title: Project Coordinator
-      institution: SAHAS Nepal
-      year: Mar 2024 – Present
+    - title: Blowing Snow Control Paraprofessional Senior
+      institution: Minnesota Department of Transportation
+      year: Aug 2026 – Present
       description:
-        - Lead the “Food and Nutrition Security” project with a team of 8 staff.
-        - Conducted trainings on climate-resilient agriculture and water management.
-        - Strengthened community-based organizations for project sustainability.
-        - Coordinated with government agencies, NGOs, and communities.
-        - Conducted field research including participatory variety selection and system of rice intensification.
-        - Published an information sheet on Black Soldier Fly for circular economy.
+        - Leading GIS tasks to map snow traps and snow fences all acreoss Minnesota.
+        - Assessment of snow traps and fences requiring maintenance.
+        - Analysis of snow traps status based climate and weather data.
+        - Coordinating with blowing snow control team for allocation of priority sites.
+        - Strengthening road safety in extreme winter events.
 
-    - title: Research Assistant
-      institution: International Development Enterprise (iDE) Nepal
-      year: Dec 2022 – Nov 2023
+    - title: Graduate Teaching Assistant
+      institution: Minnesota State University, Mankato
+      year: Aug 2025 – Present
       description:
-        - Mass-produced beneficial insects (Trichogramma sp., Telenomus sp.).
-        - Assessed field efficacy of parasitoids in pest control.
-        - Promoted IPM practices with researchers and farmers.
-        - Reduced pesticide use and improved crop yield through biological control.
+        - Conducting lab activities for "GIS in Natural Resources", "Remote Sensing", "Conservation of Natural Resources", and "Introduction to Physical Geography" courses .
+        - Student support in spatial analysis using ArcGIS Pro, ENVI, and Google Earth Pro.
+        - Semester based project support to undergraduate students.
 
-    - title: Census Supervisor
-      institution: Central Bureau of Statistics, Nepal
-      year: Mar 2022 – May 2022
+    - title: GIS Intern
+      institution: Austin Utilities, Minnesota
+      year: Jun 2026 – Aug 2026
       description:
-        - Conducted data cleaning and validation for the National Agriculture Census.
-        - Completed a 9-day training on data collection and analysis.
+        - Conducted data update and validation for utilities (water, gas, and electricity).
+        - ArcGIS Enterprise and Survey 123 for mapping and survey data collection.
+        - Focused tasks on ArcGIS Pro and AutoCAD software.
 
-    - title: Intern
-      institution: Prime Minister Agriculture Modernization Project (PMAMP)
-      year: Feb 2021 – Jul 2021
+    - title: Teaching Assistant
+      institution: Kathmandu Nepal
+      year: Dec 2022 – Apr 2025
       description:
-        - Conducted soil sampling and pesticide impact studies.
-        - Analyzed crop health and yield data using R, SPSS, and Stata.
+        - Conducted GIS and remote sensing lab activities.
+        - Prepared survey lab inventory.
+        - Conducted 28 days field survey camps for four consecutive semesters.
+        - Guided students in undergraduate projects.
+
+    - title: Data Quality Intern
+      institution: Humanitarian OpenStreetMap Team
+      year: Oct 2022 – Dec 2022
+      description:
+        - Validated open source mapping data for improved response.
+        - Training on open source mappping and validation tools.
 
 - title: Publications
   type: list
   contents:
-    - Bista, S., Thapa, M. K., Khanal, S. P. (2020). "Fall Armyworm: Menace to Nepalese Farming and the Integrated Management Approaches." *International Journal of Environment, Agriculture and Biotechnology*, 5(4), 1011–1018. [DOI:10.22161/ijeab.54.21](https://doi.org/10.22161/ijeab.54.21)
+    -  Nontapon, Jurawan, Phailin Kummuang, Neti Srihanu, et al. 2025. “Monitoring Water Turbidity in the Chiang Rai Reach of the Mekong River Using Sentinel-2 NDTI.” Engineering Journal, 10 (2). [DOI:10.14456/rmutlengj.2025.14] (https://doi.org/10.14456/rmutlengj.2025.14)
+    -  Pant, Pragya, Narayan Thapa, Sujan Nepali, and Suman Sanjel. 2024. “Land Cover Change Before and After the Sendai Framework of Disaster Risk Reduction.” Preprint, SSRN. [DOI:10.2139/ssrn.5012977] (https://doi.org/10.2139/ssrn.5012977).
+    - "Thapa, Narayan, Pragya Pant, Ritika Prasai, Aayush Mahata, and Sujan Dulal. 2025. “Sustainable Land Use Planning in Developing Countries Using GIS and Multi-Criteria Analysis A Case Study of Lalitpur District, Nepal.” City and Built Environment 3 (1): 13. https://doi.org/10.1007/s44213-025-00050-x."
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+    - year: 2026
       items:
-        - Research grant from USAID Nepal Higher Education Project
-        - Seed funding from Energize Nepal Program and KU Business Incubation Centre
-    - year: 2022
+        - Dr. Mary T. Dooley Endowed Geography Field Studies Award | MNSU, Mankato
+        - James F. Goff Endowed Geography Graduate Research Award | MNSU, Mankato 
+  
+    - year: 2025
       items:
-        - Full scholarship for Integrated Pest Management (IPM) Farmers Field School (Caritas Nepal)
+        - Graduate Teaching Assistantship | MNSU, Mankato
+    
+    - year: 2024
+      items:
+        - Graduate Teaching Assistantship | MNSU, Mankato
+        - FIG Foundation Grant | FIG Foundation 
+        - International GeoInformatics Summer School Scholarship | LIESMARS, Wuhan University, China 
+        - HOT x DataCamp Donates Scholarship | Humanitarian OpenStreetMap Team 
+        - Travel Grant | State of the Map (SoTM) 2024 
+
+    - year: 2024
+      items:
+        - Climate Action at Home Grant | Youth Sounding Board-Nepal, EU Delegation to Nepal 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Insect Ecology & IPM
+    - title: GIS and Remote Sensing
       items:
-        - Herbivore-natural enemy interactions
-        - Multitrophic interactions
-        - Nature-based and sustainable pest management
-    - title: Postharvest Entomology
+       
+    - title: Climate-Cryosphere Interactions
       items:
-        - Stored product insect damage
-        - Natural and eco-friendly control methods
-
+        
+    - title: Machine Learning for Disaster Management
+      items:
+      
 - title: Other Interests
   type: list
   contents:

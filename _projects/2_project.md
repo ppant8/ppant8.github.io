@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Black Soldier Fly for Waste-to-Feed Innovation
-description: Promoting circular economy through organic waste valorization using Black Soldier Fly (BSF)
-img: assets/img/bsf_cover.jpg
+title: Sustainable Land Use Planning
+description: Sustainable land use planning in developing countries using GIS and multi-criteria analysis :a case study of Lalitpur district, Nepal
+img: assets/img/LUP_Lalitpur.jpg
 importance: 2
 category: work
 giscus_comments: true

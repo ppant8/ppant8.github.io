@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Managing Helicoverpa armigera in Tomatoes
-description: Integrated approaches using trap crops and botanicals to control fruit borer infestation in tomato crops.
-img:
+title: Permafrost Mapping
+description: Remote Sensing and Machine learnig  Approach to Mapping Potential Permafrost Zones in the Himalaya Regio with Rock Glaciers as Proxy.
+img: assets/img/Permafrost.jpg
 importance: 3
-category: fun
+category: work
 ---
 
 This project explored sustainable strategies for managing **Helicoverpa armigera**, a major pest affecting tomato production in Nepal. It focused on **trap cropping** and the use of **botanical insecticides** to reduce fruit damage and improve yield.

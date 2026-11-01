@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Fall Armyworm Management Research
-description: Published study on sustainable strategies to combat Fall Armyworm in Nepal
-img: assets/img/fall-armyworm.jpg
+title: Glacial Lake Outburst Flood
+description: Undergraduate thesis to model flood induntation
+img: assets/img/GLOF_Study_Area.jpg
 importance: 1
 category: work
 related_publications: true

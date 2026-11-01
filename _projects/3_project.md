@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Botanical Oils for Pulse Beetle Management
-description: Evaluating plant-based oils as eco-friendly alternatives to synthetic pesticides for managing Callosobruchus chinensis in stored pulses.
+title: Climate Action :Best From Waste
+description: Training to school students about 3Rs of waste management
+img: assets/img/Climate_Action.jpg
 importance: 4
 category: work
 ---

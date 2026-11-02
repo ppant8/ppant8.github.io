@@ -30,17 +30,3 @@ Thapa, Narayan, Pragya Pant, Ritika Prasai, Aayush Mahata, and Sujan Dulal. 2025
 - This case study demonstrates how GIS and spatial analysis can support risk-informed urban planning and sustainable land-use decisions, providing a useful foundation for risk-sensitive urban planning, disaster risk reduction, and building more resilient communities.
 
 ---
-
-### Result
-
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/Result.jpg" title="Land Use Suitability Analysis Result" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-
-<div class="caption">
-Land use suitability for urban development.
-</div>
-
----

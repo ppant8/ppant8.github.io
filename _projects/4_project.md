@@ -4,7 +4,7 @@ title: Permafrost Mapping
 description: Remote Sensing and Machine learnig  Approach to Mapping Potential Permafrost Zones in the Himalaya Regio with Rock Glaciers as Proxy.
 img: assets/img/Permafrost.jpg
 importance: 3
-category: work
+category: Work
 ---
 
 This study proposes to address the gap in knowledge through a **remote sensing** and **machine learning** approach that is proven in detecting mountain permafrost in the Andes and Colorado Rockies.Generalized Additive Model (GAM) is being used to model the permafrost presence.

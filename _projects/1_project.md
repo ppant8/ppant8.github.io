@@ -1,63 +1,48 @@
 ---
 layout: page
 title: Sustainable Land Use Planning
-description: Sustainable land use planning in developing countries using GIS and multi-criteria analysis :a case study of Lalitpur district, Nepal
+description: Sustainable land use planning in developing countries using GIS and multi-criteria analysis :a case study of Lalitpur district, Nepal.
 img: assets/img/LUP_Lalitpur.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: Work
+related_publications: true
 ---
 
 ### ♻️ Project Overview
 
-The growth of urban areas within Lalitpur District has presented substantial challenges, such as haphazard development, inadequate infrastructure, and environmental degradation, ultimately compromising resident’s quality of life. The Black Soldier Fly (*Hermetia illucens*) offers a promising solution to two major global challenges: **organic waste management** and **sustainable animal feed production**. This projects examines factors such as proximity to infrastructure which include land cover, population density, flood sensitivity, slope, Digital Elevation Model (DEM), proximity to brick factory and Central Business District (CBD), the study identified suitable  areas for urban development in Lalitpur District. 
+Rapid urbanization in Nepal has led to unplanned land development, posing significant challenges for sustainable urban growth. This study conducted a comprehensive **land use suitability analysis** for urban development in Lalitpur District, Nepal, using **Geographic Information System (GIS)** and **Multi-criteria Analysis (MCA)** techniques including the weighted overlay and **Analytic Hierarchy Process (AHP)**.
+
+---
+This study was published in the *City and Built Environment* and offers practical strategies for sustainable land use planning.
 
 ---
 
-### 🌱 Project Goals
+### 📘 Publication Info
 
-- **Reduce organic waste** through bioconversion by BSF larvae
-- **Produce nutrient-rich protein feed** for poultry and fish farming
-- **Promote scalable, decentralized waste-to-feed systems**
-- **Educate and engage communities** in resource recovery and sustainability practices
+**Citation**:  
+Pant, Pragya, Narayan Thapa, Sujan Nepali, and Suman Sanjel. 2024. 
+“Land Cover Change Before and After the Sendai Framework of Disaster Risk Reduction.” 
+Preprint, SSRN. [DOI:10.2139/ssrn.5012977] (https://doi.org/10.2139/ssrn.5012977).  
 
 ---
+### 🏘️Key Contributions
+
+- This study developed a framework to minimize hazard risk using multi-criteria analysis for urban development, prioritizing areas of interest like safe grassland and open spaces. It integrates multiple factors, including slope, elevation (DEM), land cover, population, accessibility, proximity to facilities and brickkilns and flood severity.
+
+- This case study demonstrates how GIS and spatial analysis can support risk-informed urban planning and sustainable land-use decisions, providing a useful foundation for risk-sensitive urban planning, disaster risk reduction, and more resilient communities.
+
+---
+
+### Result
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/bsf_larvae.jpg" title="BSF Larvae Cultivation" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/bsf_output.jpg" title="Dried Larvae Feed Product" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/Result.jpg" title="Land Use Suitability Analysis Result" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 <div class="caption">
-  Left: BSF larvae at harvesting stage.  
-  Right: Dried BSF larvae product for feed application.
+Land use suitability for urban development.
 </div>
 
 ---
-
-### 🔬 Why It Matters
-
-Conventional animal feed ingredients like fishmeal and soybean are expensive and resource-intensive. Meanwhile, Nepal generates large volumes of untreated organic waste. The BSF model addresses both challenges by:
-
-- Closing the nutrient loop through **biological recycling**
-- Supporting **low-cost animal production** for smallholders
-- Reducing methane emissions from waste piles
-- Creating **livelihood opportunities** in green enterprise
-
----
-
-### 📘 Featured Contribution
-
-This work was summarized and published as part of an **information sheet** under SAHAS Nepal. It serves as a practical resource for farmers, entrepreneurs, and policymakers interested in waste valorization and insect farming innovations.
-
----
-
-### 💬 Join the Conversation
-
-Have thoughts or questions about this project? Want to explore collaboration or pilot this system in your community?
-
-Please leave a comment below or [reach out](mailto:srisha047@gmail.com). I'd love to connect!

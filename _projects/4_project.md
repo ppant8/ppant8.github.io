@@ -7,7 +7,7 @@ importance: 3
 category: Work
 ---
 
-This study proposes to address the gap in knowledge through a **remote sensing** and **machine learning** approach that is proven in detecting mountain permafrost in the Andes and Colorado Rockies.Generalized Additive Model (GAM) is being used to model the permafrost presence.
+❄️This study proposes to address the gap in knowledge through a **remote sensing** and **machine learning** approach that is proven in detecting mountain permafrost in the Andes and Colorado Rockies.Generalized Additive Model (GAM) is being used to model the permafrost presence.
 
 ### Research Questions:
   - How are rock glaciers distributed across the Himalaya?

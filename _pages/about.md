@@ -31,6 +31,6 @@ My work focuses on **spatial analysis** using **Geographic Information Systems (
 
 Currently, I serve as a **Graduate Teaching Assistant** at Minnesota State University, Mankato, leading lab activities on physical geogrphy and application of GIS and remote sensing for conservation of natural resources. I am also an intern at Minnesota Department of Transportation with the role **Blowing Snow Control GIS Expert** where I implement my GIS mapping and cartographic skills to ensure safe transportation during extreme winter events across Minnesota.
 
-Outside of work, I enjoy **hiking**, **trekking**, **travelling**, and learning from diverse cultures and landscapes.
+Outside of work, I enjoy **hiking**, **trekking**, **traveling**, and learning from diverse cultures and landscapes.
 
 If you'd like to collaborate or learn more, feel free to reach out via [email](mailto:pragya.pant@mnsu.edu) or connect with me on [LinkedIn](http://www.linkedin.com/in/pragya-pant-889302286).

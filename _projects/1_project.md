@@ -28,5 +28,3 @@ Thapa, Narayan, Pragya Pant, Ritika Prasai, Aayush Mahata, and Sujan Dulal. 2025
 - This study developed a framework to minimize hazard risk using multi-criteria analysis for urban development, prioritizing areas of interest like safe grassland and open spaces. It integrates multiple factors, including slope, elevation (DEM), land cover, population, accessibility, proximity to facilities and brickkilns and flood severity.
 
 - This case study demonstrates how GIS and spatial analysis can support risk-informed urban planning and sustainable land-use decisions, providing a useful foundation for risk-sensitive urban planning, disaster risk reduction, and building more resilient communities.
-
----

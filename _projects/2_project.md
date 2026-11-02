@@ -8,7 +8,7 @@ category: Work
 related_publications: true
 ---
 
-### 🐛 Overview
+### Overview
 
 This study mainly focuses on selection of one **Potentially Dangerous Glacial Lake (PDGL)** in Rank I among 4 PDGLs: Thulagi, Lower Barun, Lumding Tsho and Hongu II glacial lakes and perform its flood modelling.
 
@@ -22,7 +22,7 @@ This study mainly focuses on selection of one **Potentially Dangerous Glacial La
 
 ---
 
-### 🧪 Methods & Field Observations
+### Methods & Field Observations
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-03-01
+date: 2024-12-30
 inline: true
 related_posts: false
 ---
 
-Joined **Central Bureau of Statistics, Nepal** as a Census Supervisor! 📊 
+Completed 2 years at **Kathmandu University, Nepal** as **Teaching Assisant**! 🏆

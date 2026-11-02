@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2020-08-01
+date: 2025-03-14
 inline: true
 related_posts: false
 ---
 
-Published my first research article! **"Fall armyworm: Menace to Nepalese farming and the integrated management approaches."**
-
+Completed 14 months woking at **European Union Delegation to Nepal** as **Youth Sounding Board Member** 💡

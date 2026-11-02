@@ -1,66 +1,63 @@
 ---
 layout: page
-title: Glacial Lake Outburst Flood
-description: Undergraduate thesis to model flood induntation
-img: assets/img/GLOF_Study_Area.jpg
-importance: 1
+title: Sustainable Land Use Planning
+description: Sustainable land use planning in developing countries using GIS and multi-criteria analysis :a case study of Lalitpur district, Nepal
+img: assets/img/LUP_Lalitpur.jpg
+importance: 2
 category: work
-related_publications: true
+giscus_comments: true
 ---
 
-### 🐛 Overview
+### ♻️ Project Overview
 
-**Fall Armyworm (_Spodoptera frugiperda_)** is an invasive pest that has significantly threatened maize production in Nepal and other parts of South Asia. My co-authored research investigates its spread, impact, and explores sustainable and integrated approaches for its control.
-
-This study was published in the *International Journal of Environment, Agriculture and Biotechnology* and offers practical strategies for farmers, researchers, and policy-makers.
-
----
-
-### 📘 Publication Info
-
-**Citation**:  
-Bista, S., Thapa, M. K., & Khanal, S. P. (2020).  
-"Fall Armyworm: Menace to Nepalese Farming and the Integrated Management Approaches."  
-*International Journal of Environment, Agriculture and Biotechnology*, 5(4), 1011–1018.  
-[DOI: 10.22161/ijeab.54.21](https://doi.org/10.22161/ijeab.54.21)
+The growth of urban areas within Lalitpur District has presented substantial challenges, such as haphazard development, inadequate infrastructure, and environmental degradation, ultimately compromising resident’s quality of life. The Black Soldier Fly (*Hermetia illucens*) offers a promising solution to two major global challenges: **organic waste management** and **sustainable animal feed production**. This projects examines factors such as proximity to infrastructure which include land cover, population density, flood sensitivity, slope, Digital Elevation Model (DEM), proximity to brick factory and Central Business District (CBD), the study identified suitable  areas for urban development in Lalitpur District. 
 
 ---
 
-### 🌿 Key Contributions
+### 🌱 Project Goals
 
-- Reviewed the biology and life cycle of Fall Armyworm in Nepalese agro-climatic zones.
-- Evaluated chemical, biological, and indigenous control strategies.
-- Advocated for Integrated Pest Management (IPM) techniques over sole reliance on chemical pesticides.
-- Suggested policy and extension-level interventions for long-term containment.
+- **Reduce organic waste** through bioconversion by BSF larvae
+- **Produce nutrient-rich protein feed** for poultry and fish farming
+- **Promote scalable, decentralized waste-to-feed systems**
+- **Educate and engage communities** in resource recovery and sustainability practices
 
 ---
-
-### 🧪 Methods & Field Observations
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/Climate_Action.jpg" title="Lifecycle Monitoring in Chitwan" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/bsf_larvae.jpg" title="BSF Larvae Cultivation" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/Climate_Action.jpg" title="Fall Armyworm Larvae" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/Climate_Action.jpg" title="Farmer Survey on Management Practices" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/bsf_output.jpg" title="Dried Larvae Feed Product" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 <div class="caption">
-Field-based images documenting lifecycle study, larval outbreaks, and farmer interaction during data collection.
+  Left: BSF larvae at harvesting stage.  
+  Right: Dried BSF larvae product for feed application.
 </div>
 
 ---
 
-### 💡 Impact
+### 🔬 Why It Matters
 
-This research helped raise awareness about the pest’s emerging threat in Nepal and encouraged sustainable IPM adoption across local farming communities. It also contributed to national discussions on developing cost-effective pest control measures for smallholder farmers.
+Conventional animal feed ingredients like fishmeal and soybean are expensive and resource-intensive. Meanwhile, Nepal generates large volumes of untreated organic waste. The BSF model addresses both challenges by:
+
+- Closing the nutrient loop through **biological recycling**
+- Supporting **low-cost animal production** for smallholders
+- Reducing methane emissions from waste piles
+- Creating **livelihood opportunities** in green enterprise
 
 ---
 
-### 📩 Want to collaborate?
+### 📘 Featured Contribution
 
-If you're working in IPM, biological control, or insect ecology and would like to explore collaboration opportunities, feel free to [contact me](mailto:srisha047@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/srisha-bista-2568a9194).
+This work was summarized and published as part of an **information sheet** under SAHAS Nepal. It serves as a practical resource for farmers, entrepreneurs, and policymakers interested in waste valorization and insect farming innovations.
+
+---
+
+### 💬 Join the Conversation
+
+Have thoughts or questions about this project? Want to explore collaboration or pilot this system in your community?
+
+Please leave a comment below or [reach out](mailto:srisha047@gmail.com). I'd love to connect!

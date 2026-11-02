@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-02-01
+date: 2025-08-18
 inline: true
 related_posts: false
 ---
 
- at **Prime Minister Agriculture Modernization Project (PMAMP)**! 🌱 
+Started **Master of Science in Geographic Information Science** at **Minnesota State University, Mankato**!  

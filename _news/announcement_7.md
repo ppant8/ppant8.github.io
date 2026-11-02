@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-12-01
+date: 2022-10-03
 inline: true
 related_posts: false
 ---
 
-Joined **International Development Enterprise (iDE) Nepal** as a Research Assistant! 🔬  
+Joined **Humanitarian OpenStreetMap Team** as **Data Quality Intern**! 🗺️ 

@@ -28,4 +28,4 @@ Methodological flow of modeling and mapping permafrost probability.
 
 ---
 
-This is an ongoing research..
+📢 THIS IS AN ONGOING RESEARCH...

@@ -78,7 +78,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-sustainable-land-use-planning",
           title: 'Sustainable Land Use Planning',
-          description: "Sustainable land use planning in developing countries using GIS and multi-criteria analysis :a case study of Lalitpur district, Nepal",
+          description: "Sustainable land use planning in developing countries using GIS and multi-criteria analysis :a case study of Lalitpur district, Nepal.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-glacial-lake-outburst-flood",
@@ -88,7 +88,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-climate-action-best-from-waste",
           title: 'Climate Action :Best From Waste',
-          description: "Training to school students about 3Rs of waste management",
+          description: "Training to school students about 3Rs of waste management.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-permafrost-mapping",

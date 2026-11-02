@@ -83,7 +83,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-glacial-lake-outburst-flood",
           title: 'Glacial Lake Outburst Flood',
-          description: "Undergraduate thesis to model flood induntation",
+          description: "Undergraduate thesis to model flood induntation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-climate-action-best-from-waste",
@@ -93,12 +93,12 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-permafrost-mapping",
           title: 'Permafrost Mapping',
-          description: "Remote Sensing and Machine learnig  Approach to Mapping Potential Permafrost Zones in the Himalaya Regio with Rock Glaciers as Proxy.",
+          description: "Remote Sensing and Machine learnig  Approach to Mapping Potential Permafrost Zones in the Himalaya Region with Rock Glaciers as Proxy.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-permafrost-mapping",
           title: 'Permafrost Mapping',
-          description: "Remote Sensing and Machine learnig  Approach to Mapping Potential Permafrost Zones in the Himalaya Regio with Rock Glaciers as Proxy.",
+          description: "Remote Sensing and Machine learnig  Approach to Mapping Potential Permafrost Zones in the Himalaya Region with Rock Glaciers as Proxy.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{

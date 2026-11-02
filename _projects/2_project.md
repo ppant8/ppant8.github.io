@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Glacial Lake Outburst Flood
-description: Undergraduate thesis to model flood induntation
+description: Undergraduate thesis to model flood induntation.
 img: assets/img/GLOF_Study_Area.jpg
 importance: 1
 category: Work

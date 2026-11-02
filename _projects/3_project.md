@@ -7,7 +7,9 @@ importance: 4
 category: Innovation
 ---
 
-This project is an innovative community-based recycling idea that aims to address the issue of **waste management** and **promotes environmental sustainability**. 
+This project is an innovative community-based recycling idea with an aim to address the issue of **waste management** and promote **environmental sustainability**. 
+*Pragya Pant*, Asmita Rawat
+
 ### 💡 Impact
 
 This program trained students to collect and donate recyclable materials such as plastic bottles, cans, papers etc. that can be transformed into artistic and functional, promoting the concept of circular economy where waste is not seen as a valuable resource.

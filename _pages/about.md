@@ -25,7 +25,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! I’m **Pragya Pant**, a GIS analyst and geospatial researcher completing my MS in Geospatial Information Science at Minnesota State University, Mankato, with a BE in Geomatics Engineering from Kathmandu University, Nepal.dedicated to climate-cryosphere data and interactions.
+Hello! I’m **Pragya Pant**, a GIS analyst and geospatial researcher completing my MS in Geospatial Information Science at Minnesota State University, Mankato, with a BE in Geomatics Engineering from Kathmandu University, Nepal, dedicated to climate-cryosphere data and interactions.
 
 My work focuses on **spatial analysis** using **Geographic Information Systems (GIS)**, **remote sensing** and **machine learning**. I am passionate about glaciers, understanding climate induced disasters, hazard modeling and prediction, and applying technical and scientific insights to improving disaster management, and promoting resilience.
 

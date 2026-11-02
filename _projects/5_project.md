@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Permafrost Mapping
-description: Remote Sensing and Machine learnig  Approach to Mapping Potential Permafrost Zones in the Himalaya Regio with Rock Glaciers as Proxy.
+description: Remote Sensing and Machine learnig  Approach to Mapping Potential Permafrost Zones in the Himalaya Region with Rock Glaciers as Proxy.
 img: assets/img/Permafrost.jpg
 importance: 3
 category: fun

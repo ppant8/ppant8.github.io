@@ -10,7 +10,7 @@ related_publications: true
 
 ### ♻️ Project Overview
 
-Rapid urbanization in Nepal has led to unplanned land development, posing significant challenges for sustainable urban growth. This study conducted a comprehensive **land use suitability analysis** for urban development in Lalitpur District, Nepal, using **Geographic Information System (GIS)** and **Multi-criteria Analysis (MCA)** techniques including the weighted overlay and **Analytic Hierarchy Process (AHP)**.
+Rapid urbanization in Nepal has led to unplanned land development, posing significant challenges for sustainable urban growth. This study conducted a comprehensive **land use suitability analysis** for urban development in Lalitpur District, Nepal, using **Geographic Information Systems (GIS)** and **Multi-criteria Analysis (MCA)** techniques including the weighted overlay and **Analytic Hierarchy Process (AHP)**.
 
 ---
 This study was published in the *City and Built Environment* and offers practical strategies for sustainable land use planning.
@@ -20,16 +20,14 @@ This study was published in the *City and Built Environment* and offers practica
 ### 📘 Publication Info
 
 **Citation**:  
-Pant, Pragya, Narayan Thapa, Sujan Nepali, and Suman Sanjel. 2024. 
-“Land Cover Change Before and After the Sendai Framework of Disaster Risk Reduction.” 
-Preprint, SSRN. [DOI:10.2139/ssrn.5012977] (https://doi.org/10.2139/ssrn.5012977).  
+Thapa, Narayan, Pragya Pant, Ritika Prasai, Aayush Mahata, and Sujan Dulal. 2025.“Sustainable Land Use Planning in Developing Countries Using GIS and Multi-Criteria Analysis A Case Study of Lalitpur District, Nepal.” City and Built Environment 3 (1): 13.[DOI: 10.1007/s44213-025-00050-x] (https://doi.org/10.1007/s44213-025-00050-x).
 
 ---
 ### 🏘️Key Contributions
 
 - This study developed a framework to minimize hazard risk using multi-criteria analysis for urban development, prioritizing areas of interest like safe grassland and open spaces. It integrates multiple factors, including slope, elevation (DEM), land cover, population, accessibility, proximity to facilities and brickkilns and flood severity.
 
-- This case study demonstrates how GIS and spatial analysis can support risk-informed urban planning and sustainable land-use decisions, providing a useful foundation for risk-sensitive urban planning, disaster risk reduction, and more resilient communities.
+- This case study demonstrates how GIS and spatial analysis can support risk-informed urban planning and sustainable land-use decisions, providing a useful foundation for risk-sensitive urban planning, disaster risk reduction, and building more resilient communities.
 
 ---
 

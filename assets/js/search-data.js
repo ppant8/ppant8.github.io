@@ -52,8 +52,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-graduated-as-ageomatics-engineer-from-kathmandu-university-nepal",
-          title: '🎓Graduated as aGeomatics Engineer from Kathmandu University, Nepal',
+    },{id: "news-i-am-excited-to-share-that-i-graduated-as-a-geomatics-engineer-from-kathmandu-university-nepal",
+          title: '🎓I am excited to share that I graduated as a Geomatics Engineer from...',
           description: "",
           section: "News",},{id: "news-joined-humanitarian-openstreetmap-team-as-data-quality-intern-️",
           title: 'Joined Humanitarian OpenStreetMap Team as Data Quality Intern! 🗺️',

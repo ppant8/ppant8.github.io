@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓Graduated as a**Geomatics Engineer** from **Kathmandu University, Nepal**
+🎓Graduated as a **Geomatics Engineer** from **Kathmandu University, Nepal**
